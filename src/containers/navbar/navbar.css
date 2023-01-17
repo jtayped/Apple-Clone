@@ -1,0 +1,21 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--navbar-color);
+  z-index: 1000;
+  height: 5vh;
+  gap: 3rem;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+    gap: 2.5rem;
+}
+
+.navbar ul li a {
+    font-family: var(--navbar-font);
+    font-size: 0.9rem;
+}
