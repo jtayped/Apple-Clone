@@ -10,12 +10,28 @@
 }
 
 .navbar ul {
-    display: flex;
-    justify-content: center;
-    gap: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3rem;
+}
+
+.navbar ul li {
+  display: grid;
+  align-items: center;
 }
 
 .navbar ul li a {
-    font-family: var(--navbar-font);
-    font-size: 0.9rem;
+  font-family: var(--navbar-font);
+  font-size: 0.65rem;
+}
+
+.search {
+  height: 60%;
+  transform: translateY(-1px);
+  filter: invert(75%);
+}
+
+.navbar img:hover {
+  cursor: pointer;
 }

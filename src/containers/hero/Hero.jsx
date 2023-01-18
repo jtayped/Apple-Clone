@@ -2,9 +2,12 @@ import "./hero.css";
 
 const Hero = () => {
   return (
-    <div className="hero">
-      <h2>Hero</h2>
-    </div>
+    <section className="hero">
+      <header>
+        <h1>Introducing the new MacBook Pro and Mac mini.</h1>
+        <button>Watch the announcement</button>
+      </header>
+    </section>
   );
 };
 

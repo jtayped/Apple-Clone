@@ -1,0 +1,31 @@
+.hero {
+  height: 70vh;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  width: 22ch;
+}
+
+.hero button {
+  background: black;
+  color: white;
+  border: solid 3px transparent;
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0),
+      rgba(255, 255, 255, 0)
+    ),
+    linear-gradient(101deg, #78e4ff, #ff48fa);
+  background-origin: border-box;
+  background-clip: content-box, border-box;
+  border-radius: 100rem;
+  box-shadow: 2px 1000px 1px black inset;
+  padding: 0.75em 1.5em;
+  margin-top: 1rem;
+}

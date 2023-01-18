@@ -1,5 +1,7 @@
 import "./navbar.css";
-import Logo from '../../assets/logo.svg'
+import Logo from "../../assets/logo.svg";
+import Search from "../../assets/icons/search.png";
+import Bag from "../../assets/icons/bag.svg";
 
 const Navbar = () => {
   const navbarItems = [
@@ -41,7 +43,7 @@ const Navbar = () => {
   ];
   return (
     <nav className="navbar">
-        <img src={Logo} alt="" />
+      <img src={Logo} alt="apple logo" />
       <ul className="pages">
         {navbarItems.map((item) => (
           <li key={item.id}>
@@ -49,6 +51,8 @@ const Navbar = () => {
           </li>
         ))}
       </ul>
+      <img src={Search} alt="search" className="search" />
+      <img src={Bag} alt="shop" />
     </nav>
   );
 };
