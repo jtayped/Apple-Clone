@@ -1,11 +1,12 @@
 import "./App.css";
-import { Navbar, Hero } from "./containers/index";
+import { Navbar, Hero, Macbook } from "./containers/index";
 
 function App() {
   return (
     <div className="App">
       <Navbar />
       <Hero />
+      <Macbook />
     </div>
   );
 }
