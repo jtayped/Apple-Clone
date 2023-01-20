@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/Apple-Clone/static/css/main.28cd37f5.css",
-    "main.js": "/Apple-Clone/static/js/main.1ad833b0.js",
+    "main.css": "/Apple-Clone/static/css/main.fa945f31.css",
+    "main.js": "/Apple-Clone/static/js/main.ede70026.js",
     "static/js/787.6ceacff6.chunk.js": "/Apple-Clone/static/js/787.6ceacff6.chunk.js",
     "static/media/sf-compact-display-medium.otf": "/Apple-Clone/static/media/sf-compact-display-medium.0f0477f7041034e15c28.otf",
     "static/media/sf-compact-display-thin.otf": "/Apple-Clone/static/media/sf-compact-display-thin.df30a426f04acfe1f73b.otf",
     "static/media/sf-pro-display_semibold.woff": "/Apple-Clone/static/media/sf-pro-display_semibold.cbc040da077d78112ac7.woff",
     "static/media/sf-pro-display_bold.woff2": "/Apple-Clone/static/media/sf-pro-display_bold.48c135bac98eb3e9b76f.woff2",
     "static/media/sf-pro-display_regular.woff2": "/Apple-Clone/static/media/sf-pro-display_regular.413980aba32fc99123e1.woff2",
+    "static/media/HomePod.jpg": "/Apple-Clone/static/media/HomePod.583354ac32f96169c618.jpg",
     "static/media/MacBook.jpg": "/Apple-Clone/static/media/MacBook.be9c2b80edf36239cd39.jpg",
+    "static/media/MacMini.jpg": "/Apple-Clone/static/media/MacMini.9e5d7277b5740caf3f47.jpg",
     "static/media/search.png": "/Apple-Clone/static/media/search.9e834c37e9265dfeed50.png",
     "static/media/logo.svg": "/Apple-Clone/static/media/logo.dca800f189014a3c3eab2c30284bea83.svg",
     "index.html": "/Apple-Clone/index.html",
     "static/media/bag.svg": "/Apple-Clone/static/media/bag.41f41d59c15e30fc042ccb9a378a3e5e.svg",
-    "main.28cd37f5.css.map": "/Apple-Clone/static/css/main.28cd37f5.css.map",
-    "main.1ad833b0.js.map": "/Apple-Clone/static/js/main.1ad833b0.js.map",
+    "main.fa945f31.css.map": "/Apple-Clone/static/css/main.fa945f31.css.map",
+    "main.ede70026.js.map": "/Apple-Clone/static/js/main.ede70026.js.map",
     "787.6ceacff6.chunk.js.map": "/Apple-Clone/static/js/787.6ceacff6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28cd37f5.css",
-    "static/js/main.1ad833b0.js"
+    "static/css/main.fa945f31.css",
+    "static/js/main.ede70026.js"
   ]
 }
