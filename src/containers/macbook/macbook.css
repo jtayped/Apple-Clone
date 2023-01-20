@@ -33,3 +33,7 @@
   color: var(--a-color);
   font-size: 1.25rem;
 }
+
+.macbook a:hover {
+  text-decoration: underline;
+}

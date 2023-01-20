@@ -29,8 +29,8 @@
 }
 
 .navbar ul li a {
-  font-family: var(--navbar-font);
-  font-size: 0.65rem;
+  font-family: "SF Compact Display";
+  font-size: 0.75rem;
 }
 
 .search {
