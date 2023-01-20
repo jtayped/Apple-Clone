@@ -10,6 +10,20 @@
   align-items: center;
 }
 
+.macbook h2 {
+  font-size: 3rem;
+}
+
+.macbook p {
+  font-family: var(--subtitle-font);
+  font-size: 1.5rem;
+}
+
 .macbook * {
   color: white;
+}
+
+.availability {
+  color: grey;
+  font-size: 0.5rem;
 }
