@@ -1,21 +1,34 @@
 @import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap");
 
-@font-face {
-  font-family: "SF Pro"; /*Can be any text*/
-  src: local("AirbnbCerealLight"), url("./fonts/SF-Pro.ttf") format("truetype");
-}
-@font-face {
-  font-family: "SF Pro Semibold"; /*Can be any text*/
-  src: local("AirbnbCerealLight"),
-    url("./fonts/SF-Pro-Semibold.ttf") format("truetype");
-}
-
 :root {
   --background-color: black;
-  --navbar-color: rgba(0, 0, 0, 0.975);
+  --navbar-color: rgba(0, 0, 0, 0.6);
   --navbar-item-color: #c5c5c7;
+  --a-color: #2997ff;
 
-  --main-font: "SF Pro";
-  --subtitle-font: "SF Pro Semibold";
   --navbar-font: "Comfortaa", cursive;
+}
+
+h2 {
+  font-size: 3.15rem;
+  font-family: "SF Pro Display";
+  font-weight: bolder;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-weight: bolder;
+  src: url("./fonts/sf-pro-display_bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-weight: normal;
+  src: url("./fonts/sf-pro-display_regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+  font-weight: bold;
+  src: url("./fonts/sf-pro-display_semibold.woff") format("woff2");
 }

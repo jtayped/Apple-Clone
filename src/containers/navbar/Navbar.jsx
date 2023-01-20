@@ -8,37 +8,52 @@ const Navbar = () => {
     {
       id: 1,
       name: "Store",
-      link: "/store/",
+      link: "https://www.apple.com/store",
     },
     {
       id: 2,
       name: "Mac",
-      link: "/mac/",
+      link: "https://www.apple.com/mac/",
     },
     {
       id: 3,
       name: "iPad",
-      link: "/ipad/",
+      link: "https://www.apple.com/ipad/",
     },
     {
       id: 4,
-      name: "TV & Home",
-      link: "/tv-Home/",
+      name: "iPhone",
+      link: "https://www.apple.com/iphone/",
     },
     {
       id: 5,
-      name: "Only on Apple",
-      link: "/only-on-apple/",
+      name: "Watch",
+      link: "https://www.apple.com/watch/",
     },
     {
       id: 6,
-      name: "Accessories",
-      link: "/accessories/",
+      name: "AirPods",
+      link: "https://www.apple.com/airpods/",
     },
     {
       id: 7,
+      name: "TV & Home",
+      link: "https://www.apple.com/tv-home/",
+    },
+    {
+      id: 8,
+      name: "Only on Apple",
+      link: "https://www.apple.com/services/",
+    },
+    {
+      id: 9,
+      name: "Accessories",
+      link: "https://www.apple.com/us/shop/goto/buy_accessories",
+    },
+    {
+      id: 10,
       name: "Support",
-      link: "/support/",
+      link: "https://support.apple.com/",
     },
   ];
   return (

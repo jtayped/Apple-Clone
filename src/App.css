@@ -4,12 +4,9 @@
   box-sizing: border-box;
 }
 
-.App {
-  padding-top: 5vh;
-}
-
 body {
-  font-family: var(--main-font);
+  font-family: "SF Pro Display";
+  color: white;
 }
 
 li {

@@ -10,20 +10,26 @@
   align-items: center;
 }
 
-.macbook h2 {
-  font-size: 3rem;
-}
-
-.macbook p {
-  font-family: var(--subtitle-font);
+.subtitle-copy {
+  font-family: "SF Pro Display";
+  font-weight: 400;
   font-size: 1.5rem;
-}
-
-.macbook * {
-  color: white;
+  letter-spacing: 0.05rem;
 }
 
 .availability {
   color: grey;
-  font-size: 0.5rem;
+  font-size: 1.25rem;
+  margin-top: 0.8rem;
+}
+
+.ctas {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 1.3rem;
+}
+
+.macbook a {
+  color: var(--a-color);
+  font-size: 1.25rem;
 }

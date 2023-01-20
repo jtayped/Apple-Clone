@@ -5,7 +5,9 @@ const Hero = () => {
     <section className="hero">
       <header>
         <h1>Introducing the new MacBook Pro and Mac mini.</h1>
-        <button>Watch the announcement</button>
+        <a href="https://www.apple.com/" rel="noopener norefer">
+          <button>Go To Original Web Page</button>
+        </a>
       </header>
     </section>
   );
