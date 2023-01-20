@@ -1,5 +1,5 @@
 .hero {
-  height: 70vh;
+  height: 413px;
   display: grid;
   justify-content: center;
   align-items: center;
@@ -12,6 +12,7 @@
   margin-top: 3.25rem;
   font-size: 3rem;
   width: 50vw;
+  width: 600px;
 }
 
 .hero button {
