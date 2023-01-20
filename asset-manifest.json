@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Apple-Clone/static/css/main.1b42ce76.css",
+    "main.js": "/Apple-Clone/static/js/main.c72c5679.js",
+    "static/js/787.6ceacff6.chunk.js": "/Apple-Clone/static/js/787.6ceacff6.chunk.js",
+    "static/media/sf-pro-display_semibold.woff": "/Apple-Clone/static/media/sf-pro-display_semibold.cbc040da077d78112ac7.woff",
+    "static/media/sf-pro-display_bold.woff2": "/Apple-Clone/static/media/sf-pro-display_bold.48c135bac98eb3e9b76f.woff2",
+    "static/media/sf-pro-display_regular.woff2": "/Apple-Clone/static/media/sf-pro-display_regular.413980aba32fc99123e1.woff2",
+    "static/media/MacBook.jpg": "/Apple-Clone/static/media/MacBook.be9c2b80edf36239cd39.jpg",
+    "static/media/logo.svg": "/Apple-Clone/static/media/logo.dca800f189014a3c3eab2c30284bea83.svg",
+    "index.html": "/Apple-Clone/index.html",
+    "static/media/bag.svg": "/Apple-Clone/static/media/bag.41f41d59c15e30fc042ccb9a378a3e5e.svg",
+    "main.1b42ce76.css.map": "/Apple-Clone/static/css/main.1b42ce76.css.map",
+    "main.c72c5679.js.map": "/Apple-Clone/static/js/main.c72c5679.js.map",
+    "787.6ceacff6.chunk.js.map": "/Apple-Clone/static/js/787.6ceacff6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b42ce76.css",
+    "static/js/main.c72c5679.js"
+  ]
+}
