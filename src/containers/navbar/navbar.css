@@ -34,11 +34,16 @@
 }
 
 .search {
-  height: 35%;
+  height: 36%;
   transform: translateY(-1px);
-  filter: invert(75%);
+}
+
+.navbar img {
+  filter: brightness(75%);
+  transition: 0.2s;
 }
 
 .navbar img:hover {
   cursor: pointer;
+  filter: brightness(100%);
 }
